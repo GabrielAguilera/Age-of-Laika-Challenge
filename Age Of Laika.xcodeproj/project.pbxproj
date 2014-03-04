@@ -21,6 +21,7 @@
 		32E5E6E718C5BB7800DA9701 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32E5E6C918C5BB7800DA9701 /* UIKit.framework */; };
 		32E5E6EF18C5BB7800DA9701 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 32E5E6ED18C5BB7800DA9701 /* InfoPlist.strings */; };
 		32E5E6F118C5BB7800DA9701 /* Age_Of_LaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 32E5E6F018C5BB7800DA9701 /* Age_Of_LaikaTests.m */; };
+		32E5E6FB18C5BD2B00DA9701 /* St.Bernard.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 32E5E6FA18C5BD2B00DA9701 /* St.Bernard.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		32E5E6EC18C5BB7800DA9701 /* Age Of LaikaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Age Of LaikaTests-Info.plist"; sourceTree = "<group>"; };
 		32E5E6EE18C5BB7800DA9701 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		32E5E6F018C5BB7800DA9701 /* Age_Of_LaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Age_Of_LaikaTests.m; sourceTree = "<group>"; };
+		32E5E6FA18C5BD2B00DA9701 /* St.Bernard.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = St.Bernard.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		32E5E6CC18C5BB7800DA9701 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				32E5E6FA18C5BD2B00DA9701 /* St.Bernard.JPG */,
 				32E5E6CD18C5BB7800DA9701 /* Age Of Laika-Info.plist */,
 				32E5E6CE18C5BB7800DA9701 /* InfoPlist.strings */,
 				32E5E6D118C5BB7800DA9701 /* main.m */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32E5E6FB18C5BD2B00DA9701 /* St.Bernard.JPG in Resources */,
 				32E5E6DE18C5BB7800DA9701 /* Images.xcassets in Resources */,
 				32E5E6D018C5BB7800DA9701 /* InfoPlist.strings in Resources */,
 				32E5E6D918C5BB7800DA9701 /* Main.storyboard in Resources */,

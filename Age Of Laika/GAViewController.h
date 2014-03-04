@@ -10,4 +10,11 @@
 
 @interface GAViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UILabel *ageOfLaikaLabel;
+
+@property (strong, nonatomic) IBOutlet UITextField *ageOfLaikaTextField;
+
+- (IBAction)ageOfLaikaButton:(UIButton *)sender;
+- (IBAction)ageOfLaikaButtonScientific:(UIButton *)sender;
+
 @end
